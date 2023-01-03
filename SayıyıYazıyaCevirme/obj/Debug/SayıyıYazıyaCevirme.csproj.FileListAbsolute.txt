@@ -1,0 +1,8 @@
+C:\Users\mkaba\Desktop\CBU\Programlama temelleri\SayıyıYazıyaCevirme\bin\Debug\SayıyıYazıyaCevirme.exe.config
+C:\Users\mkaba\Desktop\CBU\Programlama temelleri\SayıyıYazıyaCevirme\bin\Debug\SayıyıYazıyaCevirme.exe
+C:\Users\mkaba\Desktop\CBU\Programlama temelleri\SayıyıYazıyaCevirme\bin\Debug\SayıyıYazıyaCevirme.pdb
+C:\Users\mkaba\Desktop\CBU\Programlama temelleri\SayıyıYazıyaCevirme\obj\Debug\SayıyıYazıyaCevirme.csproj.AssemblyReference.cache
+C:\Users\mkaba\Desktop\CBU\Programlama temelleri\SayıyıYazıyaCevirme\obj\Debug\SayıyıYazıyaCevirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\mkaba\Desktop\CBU\Programlama temelleri\SayıyıYazıyaCevirme\obj\Debug\SayıyıYazıyaCevirme.csproj.CoreCompileInputs.cache
+C:\Users\mkaba\Desktop\CBU\Programlama temelleri\SayıyıYazıyaCevirme\obj\Debug\SayıyıYazıyaCevirme.exe
+C:\Users\mkaba\Desktop\CBU\Programlama temelleri\SayıyıYazıyaCevirme\obj\Debug\SayıyıYazıyaCevirme.pdb
